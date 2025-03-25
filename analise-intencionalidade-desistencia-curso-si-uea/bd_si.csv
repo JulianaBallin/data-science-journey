@@ -1,0 +1,100 @@
+Idade,Genero,Ano_Ingresso,Periodo_Atual,Intencao,Periodo_Intencao,Ano_Intencao,Desafios_Academicos_Institucionais,Motivacao_Oportunidades,Fatores_Pessoais_Sociais,Trocar_de_Curso,Trocar_de_Instituicao_(MesmoCurso),Trancar_Matrícula,Parar_Frequentar _Universidade,Desligamento_Curso,Agrupamento_Idades,Agrupamento_Ano_Ingresso,Agrupamento_Periodos_Vigentes,Agrupamento_Fase_Intencao,Agrupamento_Anos _Intencao
+21,Feminino,2023,3º Período,Sim,1º Período,2023,0,0,2,0,0,1,0,0,21-23,2022-2024,Início do Curso,Início do Curso,2022-2024
+18,Feminino,2022,5º Período,Sim,3º Período,2023,1,1,0,0,0,0,1,0,18-20,2022-2024,Metade do Curso,Início do Curso,2022-2024
+25,Feminino,2022,5º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Sim,3º Período,2024,0,0,2,1,0,0,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+23,Masculino,2020,Estou desperiodizado,Sim,3º Período,2023,1,3,5,1,0,1,1,1,21-23,2019-2021,Desperiodizados(as),Início do Curso,2022-2024
+20,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+26,Masculino,2019,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+28,Masculino,2017,Estou desperiodizado,Sim,8º Período,2023,1,1,2,0,1,0,0,0,27-32,2014-2018,Desperiodizados(as),Final do Curso,2022-2024
+21,Masculino,2021,7º Período,Sim,4º Período,2022,2,0,0,1,0,0,0,0,21-23,2019-2021,Final do Curso,Metade do Curso,2022-2024
+21,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+22,Masculino,2020,Estou desperiodizado,Sim,2º Período,2021,0,1,0,0,0,1,0,0,21-23,2019-2021,Desperiodizados(as),Início do Curso,2019-2021
+21,Masculino,2022,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+20,Outro,2022,5º Período,Não,,,,,,,,,,,,,,,
+21,Masculino,2022,5º Período,Sim,2º Período,2023,2,0,0,1,0,0,0,0,21-23,2022-2024,Metade do Curso,Início do Curso,2022-2024
+24,Masculino,2019,7º Período,Sim,6º Período,2023,2,2,1,0,0,1,1,1,24-26,2019-2021,Final do Curso,Metade do Curso,2022-2024
+19,Masculino,2023,3º Período,Sim,2º Período,2023,1,0,1,0,0,1,0,1,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+19,Masculino,2023,3º Período,Sim,2º Período,2024,0,0,3,0,0,1,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+25,Masculino,2020,Estou desperiodizado,Sim,2º Período,2020,1,0,2,1,0,0,1,0,24-26,2019-2021,Desperiodizados(as),Início do Curso,2019-2021
+19,Feminino,2023,3º Período,Sim,3º Período,2024,1,1,3,1,1,0,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+23,Masculino,2019,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+21,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Feminino,2023,3º Período,Sim,1º Período,2023,2,0,0,1,0,0,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+21,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+18,Feminino,2023,3º Período,Sim,1º Período,2023,2,0,0,1,0,0,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+20,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+18,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+18,Masculino,2024,1º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2022,Estou desperiodizado,Sim,4º Período,2023,2,1,1,1,0,0,0,0,18-20,2022-2024,Desperiodizados(as),Metade do Curso,2022-2024
+20,Masculino,2022,5º Período,Sim,3º Período,2023,1,1,0,0,0,0,1,1,18-20,2022-2024,Metade do Curso,Início do Curso,2022-2024
+19,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+18,Masculino,2023,3º Período,Sim,2º Período,2024,2,0,0,1,0,0,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+19,Masculino,2022,Estou desperiodizado,Sim,2º Período,2024,1,1,1,1,1,1,1,1,18-20,2022-2024,Desperiodizados(as),Início do Curso,2022-2024
+19,Feminino,2023,3º Período,Não,,,,,,,,,,,,,,,
+20,Masculino,2022,5º Período,Sim,2º Período,2023,1,1,0,0,0,1,0,0,18-20,2022-2024,Metade do Curso,Início do Curso,2022-2024
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Outro,2022,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+25,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+18,Masculino,2024,1º Período,Não,,,,,,,,,,,,,,,
+21,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Feminino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+20,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+23,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+24,Masculino,2018,8º Período,Sim,2º Período,2018,1,1,2,0,1,0,0,0,24-26,2014-2018,Final do Curso,Início do Curso,2014-2018
+21,Masculino,2021,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+22,Masculino,2017,Estou desperiodizado,Sim,6º Período,2022,0,1,1,1,0,1,0,0,21-23,2014-2018,Desperiodizados(as),Metade do Curso,2022-2024
+22,Masculino,2020,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Sim,3º Período,2024,1,0,0,0,0,0,1,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+19,Masculino,2023,3º Período,Sim,2º Período,2023,1,0,1,0,1,1,0,1,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+20,Masculino,2021,7º Período,Não,,,,,,,,,,,,,,,
+23,Masculino,2019,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+21,Feminino,2022,Estou desperiodizado,Sim,1º Período,2021,2,0,2,1,0,1,0,0,21-23,2022-2024,Desperiodizados(as),Início do Curso,2019-2021
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+18,Masculino,2024,1º Período,Não,,,,,,,,,,,,,,,
+21,Feminino,2021,7º Período,Não,,,,,,,,,,,,,,,
+20,Masculino,2022,5º Período,Sim,1º Período,2022,1,0,1,0,0,1,0,1,18-20,2022-2024,Metade do Curso,Início do Curso,2022-2024
+18,Feminino,2024,1º Período,Sim,1º Período,2024,0,0,1,0,1,0,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+24,Masculino,2019,7º Período,Sim,6º Período,2023,0,0,2,0,0,1,0,0,24-26,2019-2021,Final do Curso,Metade do Curso,2022-2024
+32,Masculino,2018,7º Período,Não,,,,,,,,,,,,,,,
+21,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+21,Feminino,2021,7º Período,Não,,,,,,,,,,,,,,,
+21,Masculino,2022,Estou desperiodizado,Não,,,,,,,,,,,,,,,
+19,Masculino,2023,3º Período,Sim,1º Período,2023,2,1,1,1,0,0,0,0,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+20,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+19,Feminino,2022,5º Período,Não,,,,,,,,,,,,,,,
+28,Masculino,2014,Estou desperiodizado,Sim,3º Período,2024,1,3,4,1,1,1,1,0,27-32,2014-2018,Desperiodizados(as),Início do Curso,2022-2024
+24,Masculino,2019,Estou desperiodizado,Sim,2º Período,2020,1,0,1,1,0,0,1,1,24-26,2019-2021,Desperiodizados(as),Início do Curso,2019-2021
+22,Outro,2020,2º Período,Sim,2º Período,2023,0,0,0,0,0,0,1,0,21-23,2019-2021,Início do Curso,Início do Curso,2022-2024
+20,Masculino,2022,5º Período,Sim,3º Período,2023,2,0,0,0,0,1,1,0,18-20,2022-2024,Metade do Curso,Início do Curso,2022-2024
+20,Masculino,2023,3º Período,Sim,2º Período,2023,1,0,0,1,0,0,1,1,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+21,Masculino,2022,2º Período,Sim,2º Período,2022,1,0,0,0,0,1,0,0,21-23,2022-2024,Início do Curso,Início do Curso,2022-2024
+24,Masculino,2024,1º Período,Sim,1º Período,2024,0,2,4,0,1,1,0,0,24-26,2022-2024,Início do Curso,Início do Curso,2022-2024
+20,Masculino,2021,2º Período,Sim,2º Período,2022,2,1,0,1,0,1,0,0,18-20,2019-2021,Início do Curso,Início do Curso,2022-2024
+19,Masculino,2023,3º Período,Sim,2º Período,2023,2,0,1,1,1,1,1,1,18-20,2022-2024,Início do Curso,Início do Curso,2022-2024
+19,Masculino,2023,2º Período,Não,,,,,,,,,,,,,,,
+22,Feminino,2022,4º Período,Sim,2º Período,2023,2,0,2,1,1,0,0,0,21-23,2022-2024,Metade do Curso,Início do Curso,2022-2024
+24,Masculino,2019,4º Período,Não,,,,,,,,,,,,,,,
+24,Masculino,2019,Estou desperiodizado,Sim,5º Período,2023,0,0,1,0,1,0,0,0,24-26,2019-2021,Desperiodizados(as),Metade do Curso,2022-2024
+23,Masculino,2017,Estou desperiodizado,Sim,1º Período,2024,2,1,2,1,0,1,0,0,21-23,2014-2018,Desperiodizados(as),Início do Curso,2022-2024
+25,Masculino,2018,4º Período,Não,,,,,,,,,,,,,,,
+20,Feminino,2022,5º Período,Sim,2º Período,2023,1,0,0,0,1,0,0,0,18-20,2022-2024,Metade do Curso,Início do Curso,2022-2024
+19,Masculino,2023,3º Período,Não,,,,,,,,,,,,,,,
+27,Masculino,2015,Estou desperiodizado,Sim,6º Período,2018,1,2,2,0,0,1,1,1,27-32,2014-2018,Desperiodizados(as),Metade do Curso,2014-2018
+21,Feminino,2021,7º Período,Sim,3º Período,2022,1,0,2,1,0,0,0,0,21-23,2019-2021,Final do Curso,Início do Curso,2022-2024
+18,Feminino,2024,1º Período,Não,,,,,,,,,,,,,,,
+20,Masculino,2022,5º Período,Não,,,,,,,,,,,,,,,
+25,Feminino,2022,5º Período,Não,,,,,,,,,,,,,,,
+24,Masculino,2018,Estou desperiodizado,Sim,5º Período,2022,0,2,2,0,1,1,0,0,24-26,2014-2018,Desperiodizados(as),Metade do Curso,2022-2024
+20,Feminino,2021,Estou desperiodizado,Sim,3º Período,2022,2,0,0,0,0,1,0,0,18-20,2019-2021,Desperiodizados(as),Início do Curso,2022-2024
+25,Masculino,2023,3º Período,Sim,3º Período,2024,0,2,2,0,0,1,0,0,24-26,2022-2024,Início do Curso,Início do Curso,2022-2024
